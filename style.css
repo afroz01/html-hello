@@ -1,6 +1,7 @@
 body{
     width: 700px;
     align-content: center;
+    margin: auto;
 }
 .post-header{
     background-color: lightblue;
@@ -10,6 +11,9 @@ body{
     
     padding-inline: 40px;
 
+}
+.post-header svg{
+    
 }
 
 .header-left{
