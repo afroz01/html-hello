@@ -1,4 +1,9 @@
+body{
+    width: 700px;
+    align-content: center;
+}
 .post-header{
+    background-color: lightblue;
     justify-content: space-between;
     align-items: center;
     display: flex;
@@ -7,8 +12,10 @@
 
 }
 .right-header{
-    padding-right: 90px;
+    height: 90px;
+    width: 90px;
 }
+
 
 
 .post-img{
