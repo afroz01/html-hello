@@ -11,14 +11,37 @@ body{
     padding-inline: 40px;
 
 }
-.right-header{
-    height: 90px;
-    width: 90px;
+
+.header-left{
+    display: flex;
+    gap: 12px;
+    align-items: center;
+    
+}
+.header-left svg{
+    font-size: 4rem;
+}
+h2{
+    margin: o;
+}
+p{
+    margin: 0;
 }
 
+img{
+    width: 100%;
+}
 
+.post-reaction{
+    display: flex;
+    justify-content: space-between;
 
-.post-img{
-    width:200px;
-    
+}
+.icons{
+    display: flex;
+    justify-content: space-between;
+    font-size: 2rem;
+}
+.post-footer{
+    padding: 1rem;
 }
